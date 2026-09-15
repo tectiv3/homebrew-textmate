@@ -1,6 +1,6 @@
 cask "textmate" do
-  version "2.19.0"
-  sha256 "b3d2b8029d03e677e01dfdc730b32a58b37524f2223cb91865d1f28f897dc9e2"
+  version "2.20.0"
+  sha256 "ccb7e35c6767c89b14498b260546ed3a38300c5e15ac58775e9d23571437458c"
 
   url "https://github.com/tectiv3/textmate/releases/download/v#{version}/TextMate-#{version}.tar.gz"
   name "TextMate"
